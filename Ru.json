@@ -62,12 +62,12 @@
                "action": "link:https://www.youtube.com/@pcheshka"
             },
             {
-               "icon": "description",
+               "icon": "close",
                "type": "default",
                "layout": "9,4,1,1",
                "color": "msx-glass",
                "title": "",
-               "action": "info: Сервер пустой./Server are empty."
+               "action": "content:https://msxmaker.github.io/index.json"
             }
          ]
       }
