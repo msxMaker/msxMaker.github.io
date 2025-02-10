@@ -1,0 +1,31 @@
+{
+   "type": "pages",
+   "headline": "Sofa Launcher",
+   "pages": [
+      {
+         "items": [
+            {
+               "type": "default",
+               "layout": "0,0,2,2",
+               "color": "msx-glass",
+               "title": "Видео 1",
+               "action": "video:http://msx.benzac.de/media/video1.mp4"
+            },
+            {
+               "type": "default",
+               "layout": "2,0,2,2",
+               "color": "msx-glass",
+               "title": "Видео 2",
+               "action": "video:http://msx.benzac.de/media/video2.mp4"
+            },
+            {
+               "type": "default",
+               "layout": "4,4,4,2",
+               "color": "msx-glass",
+               "title": "Нету много видео, музыки и фоток?",
+               "action": "link:https://t.me/+zopbh1DOpfhkMjIy"
+            }
+         ]
+      }
+   ]
+}
