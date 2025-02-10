@@ -58,7 +58,8 @@
                "type": "default",
                "layout": "6,3,3,3",
                "color": "msx-glass",
-               "title": "Ссылки на соц. сети"
+               "title": "Ссылки на соц. сети",
+               "action": "link:https://www.youtube.com/@pcheshka"
             },
             {
                "icon": "description",
