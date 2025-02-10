@@ -1,0 +1,26 @@
+{
+   "type": "pages",
+   "headline": "Sofa Launcher",
+   "pages": [
+      {
+         "items": [
+            {
+               "icon": "translate",
+               "type": "default",
+               "layout": "2,0,2,2",
+               "color": "msx-glass",
+               "tag": "WIP",
+               "title": "English"
+            },
+            {
+               "icon": "translate",
+               "type": "default",
+               "layout": "0,0,2,2",
+               "color": "msx-glass",
+               "title": "Русский",
+               "action": "content:https://msxmaker.github.io/Ru.json"
+            }
+         ]
+      }
+   ]
+}
