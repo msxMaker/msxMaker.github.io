@@ -44,7 +44,8 @@
                "type": "default",
                "layout": "3,3,3,3",
                "color": "msx-glass",
-               "title": "Видео"
+               "title": "Видео",
+               "action": "content:https://msxmaker.github.io/videosru.json"
             },
             {
                "icon": "image",
