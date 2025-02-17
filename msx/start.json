@@ -1,0 +1,24 @@
+{
+   "type": "pages",
+   "headline": "Special",
+   "pages": [
+      {
+         "items": [
+            {
+               "title": "Обычный режим",
+               "layout": "0,0,6,6",
+               "action": "error:В разработке",
+               "icon": "tv",
+               "type": "button"
+            },
+            {
+               "title": "Зайти на сайт",
+               "layout": "6,0,6,6",
+               "action": "error:В разработке",
+               "icon": "public",
+               "type": "button"
+            }
+         ]
+      }
+   ]
+}
