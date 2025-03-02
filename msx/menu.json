@@ -12,7 +12,7 @@
                 "layout": "0,0,12,6",
                 "color": "msx-glass",
                 "headline": "Добро пожаловать в Sofa Launcher!",
-                "text": "Sofa Launcher это - плейлист для MSX с удобным интерфесом, отдельный клиент MSX, сделан на JSON и JavaScript. \n -Как пользоваться? \n -Просто! \n "
+                "text": "Sofa Launcher это - плейлист для MSX."
               }
             ]
           }
