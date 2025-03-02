@@ -1,0 +1,140 @@
+{
+          "headline": "Sofa Launcher",
+          "menu": [
+            {
+              "label": "Добро пожаловать!",
+              "icon": "home",
+              "data": {
+                "pages": [{
+                  "items": [{
+                    "layout": "0,0,12,6",
+                    "color": "msx-glass",
+                    
+                    "headline": "Добро пожаловать в Sofa Launcher!",
+                    "text": "Sofa Launcher это - плейлист для MSX с удобным интерфесом, отдельный клиент MSX, сделан на JSON и JavaScript. \n -Как пользоваться? \n -Просто! \n "
+                  }]
+                }]
+              }
+            },
+            {
+      "type": "separator"
+    },
+            {
+              "label": "Web-приложения",
+              "icon": "public",
+              "data": {
+                "pages": [{
+                  "items": [{
+                    "type": "default",
+                    "layout": "0,0,12,3",
+                    "imageFiller": "cover",
+                    "image": "http://msx.benzac.de/img/bg1.jpg",
+                    "action": "content:https://msxMaker.github.io/Ru.json",
+                    "color": "msx-glass",
+                    "icon": "chair",
+                    "title": "[УСТАРЕЛО] Sofa Launcher OLD"
+                  },
+                  {
+                    "type": "default",
+                    "layout": "0,3,2,2",
+                    "color": "msx-glass",
+                    
+                    "title": "Тут ещё что-то будет."
+                  },
+                  {
+                    "type": "default",
+                    "layout": "2,3,2,2",
+                    "color": "msx-glass",
+                    
+                    "title": "Тут ещё что-то будет."
+                  },
+                  {
+                    "type": "default",
+                    "layout": "4,3,2,2",
+                    "color": "msx-glass",
+                    
+                    "title": "Тут ещё что-то будет."
+                  },
+                {
+                    "type": "default",
+                    "layout": "6,3,2,2",
+                    "color": "msx-glass",
+                    
+                    "title": "Тут ещё что-то будет."
+                  },
+                  {
+                    "type": "default",
+                    "layout": "8,3,2,2",
+                    "color": "msx-glass",
+                    
+                    "title": "Тут ещё что-то будет."
+                  },
+                  {
+                    "type": "default",
+                    "layout": "10,3,2,2",
+                    "color": "msx-glass",
+                    
+                    "title": "Тут ещё что-то будет."
+                  }
+                ]
+                }]
+              }
+            },
+            {
+              "label": "Примеры",
+              "icon": "apps",
+              "data": {
+                "pages": [{
+                  "items": [
+                    {
+                    "type": "default",
+                    "layout": "0,0,2,2",
+                    "imageFiller": "cover",
+                    "image": "https://msx.benzac.de/img/bg1.jpg",
+                    "action": "image:https://msx.benzac.de/img/bg1.jpg",
+                    "color": "msx-glass",
+                    "icon": "image",
+                    "title": "bg1.jpg"
+                  }
+                ]
+                }]
+              }
+            },
+            {
+      "type": "separator"
+    },
+            {
+              "label": "Остальное",
+              "icon": "more-horiz",
+              "data": {
+                "pages": [{
+                  "items": [
+                  {
+                    "type": "default",
+                    "layout": "0,1,12,5",
+                    
+                    "color": "msx-glass",
+                    "icon": "build",
+                    "title": "В разработке"
+                  },{
+                    "type": "default",
+                    "layout": "0,0,6,1",
+                    
+                    "color": "msx-glass",
+                    "icon": "send",
+                    "action": "link:https://t.me/+zopbh1DOpfhkMjIy"
+                  },
+                  {
+                    "type": "default",
+                    "layout": "6,0,6,1",
+                    
+                    "color": "msx-glass",
+                    "icon": "live-tv",
+                    "action": "link:https://www.youtube.com/@pcheshka"
+                  }
+                ]
+                }]
+              }
+            },
+          ]
+        }
